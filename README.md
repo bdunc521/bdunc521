@@ -22,7 +22,8 @@ Fixing them better.
 - Linux / Windows
 
 ### What I’m Working On
--Improving data analysis workflows
--Writing cleaner, faster Python
--Building portfolio-worthy projects
+- Improving data analysis workflows
+- Writing cleaner, faster Python
+- Building portfolio
+- worthy projects
 
